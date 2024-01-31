@@ -96,9 +96,6 @@ nav {
     align-items: center;
 }
 
-nav button {
-    display: none;
-}
 
 .nav__menu {
     display: flex;
@@ -247,7 +244,7 @@ header {
     gap: 1.5rem;
     height: fit-content;
     background: #6c63ff;
-    min-height: 14rem;
+    height: 14rem;
 }
 
 .faq h4 {

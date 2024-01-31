@@ -12,6 +12,7 @@
     background: #2e3267;
     text-align: center;
     border: 1px solid transparent;
+    position: relative;
 }
 
 .course-info {
@@ -26,4 +27,5 @@
 .course a {
     margin-bottom: 2rem;
 }
+
 
